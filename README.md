@@ -97,11 +97,7 @@ Dha-ESRGAN_Github/
 
 ---
 
-## Messidor-2 Ablation Results
 
-<p align="center">
-<img src="assets/messi_abl_1.png" width="850">
-</p>
 
 ---
 
