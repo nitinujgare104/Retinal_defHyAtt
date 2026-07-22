@@ -54,7 +54,7 @@ Dha-ESRGAN_Github/
 </p>
 ---
 <p align="center">
-<img src="assets/messi_q1.jpg" width="900">
+<img src="assets/messi_q1.png" width="900">
 </p>
 ---
 
