@@ -107,7 +107,7 @@ Dha-ESRGAN_Github/
 # Citation
 
 ```bibtex
-@article{Ujgare2026,
+@article{Nitin S Ujgare2026,
   title={DHA-ESRGAN: Deformable Hybrid Attention ESRGAN for Retinal Fundus Image Super-Resolution},
   author={Nitin S. Ujgare and K. V. Arya and Deepak Kumar Dewangan},
   journal={Under Review},
